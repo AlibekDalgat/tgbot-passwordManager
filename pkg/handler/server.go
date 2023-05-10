@@ -2,11 +2,11 @@ package handler
 
 import (
 	"fmt"
+	"github.com/go-telegram-bot-api/telegram-bot-api/v5"
 	"github.com/sirupsen/logrus"
 	"log"
 	"sync"
 	"tgbot"
-	"tgbotapi"
 	"time"
 )
 
