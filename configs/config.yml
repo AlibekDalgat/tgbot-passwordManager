@@ -1,0 +1,8 @@
+token: "5991436342:AAFfhsTJ5r-voAVr8URJ8tErY-aReD9mdZU"
+
+db:
+  username: "postgres"
+  host: "localhost"
+  port: "5436"
+  dbname: "postgres"
+  sslmode: "disable"
